@@ -1,0 +1,18 @@
+## Visual Studio Temp Files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+## Build Results
+*.exe
+*.dll
+*.msi
+
+## OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
